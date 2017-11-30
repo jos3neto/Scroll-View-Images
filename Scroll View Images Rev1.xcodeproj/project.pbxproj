@@ -58,14 +58,9 @@
 		825830401FCD9E0A009E9060 /* Scroll View Images Rev1 */ = {
 			isa = PBXGroup;
 			children = (
-				825830441FCD9E0A009E9060 /* AppDelegate.h */,
-				825830451FCD9E0A009E9060 /* AppDelegate.m */,
 				825830471FCD9E0A009E9060 /* ViewController.h */,
 				825830481FCD9E0A009E9060 /* ViewController.m */,
 				8258304A1FCD9E0A009E9060 /* Main.storyboard */,
-				8258304D1FCD9E0A009E9060 /* Assets.xcassets */,
-				8258304F1FCD9E0A009E9060 /* LaunchScreen.storyboard */,
-				825830521FCD9E0A009E9060 /* Info.plist */,
 				825830411FCD9E0A009E9060 /* Supporting Files */,
 			);
 			path = "Scroll View Images Rev1";
@@ -74,6 +69,11 @@
 		825830411FCD9E0A009E9060 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				825830441FCD9E0A009E9060 /* AppDelegate.h */,
+				825830451FCD9E0A009E9060 /* AppDelegate.m */,
+				8258304D1FCD9E0A009E9060 /* Assets.xcassets */,
+				8258304F1FCD9E0A009E9060 /* LaunchScreen.storyboard */,
+				825830521FCD9E0A009E9060 /* Info.plist */,
 				825830421FCD9E0A009E9060 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -309,6 +309,7 @@
 				825830571FCD9E0A009E9060 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

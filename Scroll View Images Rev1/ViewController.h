@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+-(void) setUpScrollView;
+-(void) setUpZooming;
 
 @end
 
